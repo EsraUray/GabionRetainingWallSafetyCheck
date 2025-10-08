@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: If you use this work, please cite it.
+title: Gabion Retaining Wall Safety Check (Notebook)
+type: software
+@article{UrayGeem2025_Mathematics,
+  author  = {Uray, Esra and Geem, Z. W.},
+  title   = {Mathematical Approach Integrating Surrogate Models in Heuristic Optimization for Gabion Retaining Wall Design},
+  journal = {Mathematics},
+  year    = {2025},
+  volume  = {13},
+  number  = {19},
+  pages   = {3216},
+  doi     = {10.3390/math13193216}
+}s
+version: "1.0.0"
+date-released: "2025-10-08"
+repository-code: "https://github.com/your-username/gabionretainingwallsafetycheck-librarymanual"
